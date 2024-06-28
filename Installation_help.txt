@@ -1,0 +1,22 @@
+=======================================================
+                   Olivia AI Assistant
+                       Version 1.0
+=======================================================
+
+Thank you for downloading Olivia AI Assistant!
+
+Installation Step -------
+
+01. First you want to install Python3.8 version or later version
+02. Open CMD as administrative
+03. Install the requirement.txt 
+     -  pip install requirement.txt
+04. After run Olivia_AI_VER_1.00(BETA).EXE file
+05. Enjoy
+
+==========================================================
+Any trouble when install
+
+contact us :-
+Email :- sanjunamanohara055@gmail.com
+website : - https://github.com/SLSanjuBro/Olivia-AI
